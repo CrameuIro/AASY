@@ -44,7 +44,7 @@ def load():
         
     return True
 
-# 清屏
+# 清屏+打印提醒
 def clear(error_info):
     os.system('cls' if os.name == 'nt' else 'clear')
     if error_info:
@@ -119,7 +119,7 @@ def view():
         wait()
     except:
         if view_category == cancel_code:
-            clear("已取消操作。\n")
+            clear(0)
         else:
             clear("!错误：输入内容有误。\n")
         return
@@ -158,7 +158,7 @@ def add():
         print("!错误：输入长度有误。\n")
         return
     elif new_app_list[0].lower() == cancel_code:
-        print("已取消操作。\n")
+        clear(0)
         return
         
     print("\n")
@@ -173,7 +173,7 @@ def add():
             return
     except:
         if new_app_list[1] == cancel_code:
-            print("已取消操作。\n")
+            clear(0)
         else:
             print("!错误：输入内容有误。\n")
         return
@@ -182,7 +182,7 @@ def add():
         print("!错误：输入长度有误。\n")
         return
     elif new_app_list[2].lower() == cancel_code:
-        print("已取消操作。\n")
+        clear(0)
         return
         
     new_app_list[3] = input("\n请输入新应用的Github链接，没有则留空。\n").strip()
@@ -190,7 +190,7 @@ def add():
         print("!错误：输入长度有误。\n")
         return
     elif new_app_list[3].lower() == cancel_code:
-        print("已取消操作。\n")
+        clear(0)
         return
     
     new_app_list[4] = input("\n请输入新应用的官网链接。官网必须提供免登录可用的下载链接。没有则留空。\n").strip()
@@ -198,7 +198,7 @@ def add():
         print("!错误：输入长度有误。\n")
         return
     elif new_app_list[4].lower() == cancel_code:
-        print("已取消操作。\n")
+        clear(0)
         return
     
     # 判断类型
@@ -222,7 +222,7 @@ def add():
     # 二次确认
     sec_confirm = input("\n请确认信息无误。(y/n) ").strip()
     if sec_confirm.lower() != "y":
-        print("已取消操作。\n")
+        clear("已取消操作。")
         return
     
     # 写入yaml中对应的分类

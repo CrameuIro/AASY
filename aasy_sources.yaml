@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-06-18 22:51
+  update_time: 2026-06-22 13:50
 categories:
 - name: ACGN
   apps:
@@ -348,6 +348,13 @@ categories:
     sources:
     - type: github
       url: https://github.com/Notsfsssf/pixez-flutter
+  - name: Read You
+    type: foss
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/me.ash.reader/
+    - type: github
+      url: https://github.com/ReadYouApp/ReadYou
   - name: Retro Music
     type: foss
     sources:
@@ -428,6 +435,14 @@ categories:
     sources:
     - type: github
       url: https://github.com/wuhgit/CustomPinyinDictionary
+  - name: DoNotTryAccessibility
+    type: foss
+    sources:
+    - type: github
+      url: https://github.com/Nitsuya/DoNotTryAccessibility
+    - type: official
+      url: 
+        https://modules.lsposed.org/module/io.github.nitsuya.donottryaccessibility/
   - name: EdgeX
     type: foss
     sources:
@@ -863,6 +878,13 @@ categories:
       url: https://zfont.pages.dev/
 - name: SystemTools
   apps:
+  - name: Activity Launcher
+    type: foss
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/de.szalkowski.activitylauncher/
+    - type: github
+      url: https://github.com/butzist/ActivityLauncher
   - name: Activity Manager
     type: foss
     sources:
@@ -1362,6 +1384,11 @@ categories:
     - type: github
       url: https://github.com/Mygod/VPNHotspot
   - name: WebBrowsing
+  - name: WebToApp
+    type: foss
+    sources:
+    - type: github
+      url: https://github.com/shiaho777/web-to-app
   - name: Womic
     type: closed
     sources:
