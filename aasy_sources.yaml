@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-06-22 13:50
+  update_time: 2026-06-29 11:39
 categories:
 - name: ACGN
   apps:
@@ -1047,6 +1047,13 @@ categories:
       url: https://github.com/microg/GmsCore
     - type: official
       url: https://microg.org/
+  - name: Operit AI
+    type: foss
+    sources:
+    - type: github
+      url: https://github.com/AAswordman/Operit
+    - type: official
+      url: https://operit.app/
   - name: SaverTuner
     type: foss
     sources:
@@ -1196,6 +1203,13 @@ categories:
     sources:
     - type: github
       url: https://github.com/cforth/CryptoApp-Android
+  - name: Currencies
+    type: foss
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/de.salomax.currencies/
+    - type: github
+      url: https://github.com/sal0max/currencies
   - name: Daily You
     type: foss
     sources:
