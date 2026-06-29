@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-06-29 11:39
+  update_time: 2026-06-29 13:56
 categories:
 - name: ACGN
   apps:
@@ -1174,6 +1174,13 @@ categories:
     sources:
     - type: github
       url: https://github.com/Luokavin/AutoGLM-For-Android
+  - name: Barcode Scanner
+    type: foss
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/com.atharok.barcodescanner/
+    - type: official
+      url: https://gitlab.com/Atharok/BarcodeScanner
   - name: Breezy Weather
     type: foss
     sources:
@@ -1362,6 +1369,13 @@ categories:
       url: https://f-droid.org/packages/org.nsh07.pomodoro/
     - type: github
       url: https://github.com/nsh07/Tomato
+  - name: Torrent Search
+    type: foss
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/com.prajwalch.torrentsearch/
+    - type: github
+      url: https://github.com/prajwalch/TorrentSearch
   - name: Trail Sense
     type: foss
     sources:
