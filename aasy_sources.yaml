@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-06-29 13:56
+  update_time: 2026-07-26 21:04
 categories:
 - name: ACGN
   apps:
@@ -315,6 +315,11 @@ categories:
       url: https://github.com/maotoumao/MusicFree
     - type: official
       url: https://musicfree.catcat.work/
+  - name: NeriPlayer
+    type: foss
+    sources:
+    - type: github
+      url: https://github.com/cwuom/NeriPlayer
   - name: NewPipe
     type: foss
     sources:
@@ -1324,6 +1329,15 @@ categories:
       url: https://f-droid.org/packages/com.minar.randomix/
     - type: github
       url: https://github.com/m-i-n-a-r/randomix
+  - name: Remember
+    type: foss
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/dev.bikram.remember.gh/
+    - type: github
+      url: https://github.com/bikram-agarwal/Remember
+    - type: official
+      url: https://bikram-agarwal.github.io/remember/
   - name: Remind Me!
     type: foss
     sources:
