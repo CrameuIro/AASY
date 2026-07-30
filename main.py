@@ -61,26 +61,29 @@ def aasy_exit():
 # 主菜单
 def main_menu():
     action_code = input(f"AASY主菜单\n目标文件：{yaml_filename}\n\n1.查看概况\n2.搜索应用\n3.添加应用\n\n请输入编号，输入 {cancel_code} 退出应用。\n").strip()
-    try:
-        action_code = int(action_code)
-        # 检查yaml文件
-        if not load():
-            return
+    if action_code != "":
+        try:
+            action_code = int(action_code)
+            # 检查yaml文件
+            if not load():
+                return
+            clear(0)
+            if action_code == 1:
+                view()
+            elif action_code == 2:
+                search()
+            elif action_code == 3:
+                add()
+            else:
+                clear("!错误：输入内容有误。")
+        except:
+            if action_code == cancel_code:
+                aasy_exit()
+            else:
+                clear("!错误：输入内容有误。")
+    else:
         clear(0)
-        if action_code == 1:
-            view()
-        elif action_code == 2:
-            search()
-        elif action_code == 3:
-            add()
-        else:
-            clear("!错误：输入内容有误。\n")
-    except:
-        if action_code == cancel_code:
-            aasy_exit()
-        else:
-            clear("!错误：输入内容有误。\n")
-    
+        
 # 查看概况
 def view():    
     total_count = 0    
@@ -96,41 +99,44 @@ def view():
     print(f"\n0. 合计：{total_count}个项目")
     
     # 询问是否打印详细应用列表
-    view_category = input(f"\n输入分类编号查询对应分类应用列表（0~{len(category_name_list)}），输入 {cancel_code} 返回。\n").strip()
-    try:
-        view_category = int(view_category) - 1
-        if view_category < -1 or view_category >= len(category_name_list):
-            view_category = ""
-            clear("!错误：编号错误。\n")
-            return
-        else: 
-            clear(0)
-            if view_category == -1:
-                view_start, view_end = 0, len(category_name_list)
-            else:
-                view_start, view_end = view_category, view_category + 1
-            for index in range(view_start, view_end): 
-                apps_list = categories_list[index].get("apps", [])
-                print(f"\n========================\n{category_name_list[index]} ({len(apps_list)})\n========================")
-                
-                for app in apps_list:
-                    print(app.get("name"))
+    view_category = input(f"\n输入分类编号查询对应分类应用列表（0~{len(category_name_list)}），留空则返回。\n").strip()
+    if view_category != "" and view_category != cancel_code:
+        try: # Ctrl + C会被int()语句格式化！待修复
+            view_category = int(view_category) - 1
+            if view_category < -1 or view_category >= len(category_name_list):
+                view_category = ""
+                clear("!错误：编号错误。")
+                return
+            else: 
+                clear(0)
+                if view_category == -1:
+                    view_start, view_end = 0, len(category_name_list)
+                else:
+                    view_start, view_end = view_category, view_category + 1
+                for index in range(view_start, view_end): 
+                    apps_list = categories_list[index].get("apps", [])
+                    print(f"\n========================\n{category_name_list[index]} ({len(apps_list)})\n========================")
                     
-        wait()
-    except:
-        if view_category == cancel_code:
+                    for app in apps_list:
+                        print(app.get("name"))
+                        
+            wait()
+        except TypeError:
             clear(0)
-        else:
-            clear("!错误：输入内容有误。\n")
-        return
+            return
+    else:
+        clear(0)
 
 # 搜索应用
-# 待添加功能：1 需要在查询到结果时返回对应完整内容；2 后续可能会有重名软件，需要同时显示所有符合的结果；3 没有搜索到结果时，显示相似的结果   
+# 待添加功能：1 需要在查询到结果时返回对应完整内容；2 后续可能会有重名软件，需要同时显示所有符合的结果；3 没有搜索到结果时，显示相似的结果;4 input()语句被Ctrl+C打断后程序不会终止（特性？） 
 def search():
     search_name = input(f"请输入要查询的安卓应用名称，输入 {cancel_code} 返回。 \n").strip()
     result_list = []
     clear(0)
     if search_name == cancel_code:
+        return
+    if len(search_name) < 1 or len(search_name) > 100:
+        clear("!错误：输入长度有误。")
         return
     for category in categories_list:
         apps_list = category.get("apps", [])
