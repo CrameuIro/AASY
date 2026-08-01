@@ -44,7 +44,7 @@ def load():
         
     return True
 
-# 清屏+打印提醒
+# 清屏+打印提醒（输入0时不打印提醒）
 def clear(error_info):
     os.system('cls' if os.name == 'nt' else 'clear')
     if error_info:
@@ -133,7 +133,7 @@ def search():
     search_name = input(f"请输入要查询的安卓应用名称，输入 {cancel_code} 返回。 \n").strip()
     result_list = []
     clear(0)
-    if search_name == cancel_code:
+    if search_name == cancel_code or search_name == "":
         return
     if len(search_name) < 1 or len(search_name) > 100:
         clear("!错误：输入长度有误。")
@@ -161,7 +161,7 @@ def add():
     # 输入过程
     new_app_list[0] = input("请输入要添加的应用名称。\n").strip()
     if len(new_app_list[0]) < 1 or len(new_app_list[0]) > 100:
-        print("!错误：输入长度有误。\n")
+        clear("!错误：输入长度有误。")
         return
     elif new_app_list[0].lower() == cancel_code:
         clear(0)
@@ -175,17 +175,17 @@ def add():
         new_app_list[1] = int(new_app_list[1]) - 1
         if new_app_list[1] < 0 or new_app_list[1] >= len(category_name_list):
             new_app_list[1] = ""
-            print("!错误：编号错误。\n")
+            clear("!错误：编号错误。")
             return
     except:
         if new_app_list[1] == cancel_code:
             clear(0)
         else:
-            print("!错误：输入内容有误。\n")
+            clear("!错误：输入内容有误。")
         return
     new_app_list[2] = input("\n请输入新应用的F-Droid链接，没有则留空。\n").strip()
-    if len(new_app_list[2]) > 100:
-        print("!错误：输入长度有误。\n")
+    if len(new_app_list[2]) > 256:
+        clear("!错误：输入长度有误。")
         return
     elif new_app_list[2].lower() == cancel_code:
         clear(0)
@@ -193,7 +193,7 @@ def add():
         
     new_app_list[3] = input("\n请输入新应用的Github链接，没有则留空。\n").strip()
     if len(new_app_list[3]) > 100:
-        print("!错误：输入长度有误。\n")
+        clear("!错误：输入长度有误。")
         return
     elif new_app_list[3].lower() == cancel_code:
         clear(0)
@@ -201,7 +201,7 @@ def add():
     
     new_app_list[4] = input("\n请输入新应用的官网链接。官网必须提供免登录可用的下载链接。没有则留空。\n").strip()
     if len(new_app_list[4]) > 100:
-        print("!错误：输入长度有误。\n")
+        clear("!错误：输入长度有误。")
         return
     elif new_app_list[4].lower() == cancel_code:
         clear(0)
@@ -209,7 +209,7 @@ def add():
     
     # 判断类型
     if not new_app_list[2] and not new_app_list[3] and not new_app_list[4]:
-        print("!错误：没有输入任一链接。")
+        clear("!错误：没有输入任一链接。")
         return
     elif new_app_list[2] or new_app_list[3]:
         new_app_list[5] = "foss"
