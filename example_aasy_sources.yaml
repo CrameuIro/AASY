@@ -1,0 +1,29 @@
+metadata:
+  author: your_name
+  update_time: YYYY-MM-DD HH:MM
+categories:
+- name: name_of_the_first_category
+  apps:
+  - name: name_of_the_first_app
+    type: closed_or_foss
+    sources:
+    - type: fdroid/github/official
+      url: a_link
+    - type: fdroid/github/official
+      url: a_link
+  - name: name_of_the_second_app
+    type: closed_or_foss
+    sources:
+    - type: fdroid/github/official
+      url: a_link
+    - type: fdroid/github/official
+      url: a_link
+    - type: fdroid/github/official
+      url: a_link
+- name: name_of_the_second_category
+  apps:
+  - name: name_of_the_first_app
+    type: closed_or_foss
+    sources:
+    - type: fdroid/github/official
+      url: a_link

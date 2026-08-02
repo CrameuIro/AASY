@@ -39,7 +39,6 @@ def load():
             category_name_list.append(category.get("name",""))
     except (AttributeError, TypeError):
         clear("!错误：YAML结构错误。")
-        '''后续可以加入自动修复/提供标准结构的功能'''
         return False
         
     return True
@@ -121,7 +120,7 @@ def view():
                         print(app.get("name"))
                         
             wait()
-        except TypeError:
+        except:
             clear(0)
             return
     else:

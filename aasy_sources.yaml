@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-07-26 21:04
+  update_time: 2026-08-02 16:24
 categories:
 - name: ACGN
   apps:
@@ -1450,6 +1450,15 @@ categories:
     sources:
     - type: github
       url: https://github.com/Tosencen/XMSLEEP
+  - name: YTDLnis
+    type: foss
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/com.deniscerri.ytdl/
+    - type: github
+      url: https://github.com/deniscerri/ytdlnis
+    - type: official
+      url: https://ytdlnis.org/
   - name: 一个木函
     type: closed
     sources:
