@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-08-02 16:24
+  update_time: 2026-08-06 22:24
 categories:
 - name: ACGN
   apps:
@@ -1026,6 +1026,13 @@ categories:
     sources:
     - type: github
       url: https://github.com/wxxsfxyzm/InstallerX-Revived
+  - name: Keep Screen On
+    type: foss
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/com.elasticrock.keepscreenon/
+    - type: github
+      url: https://github.com/elastic-rock/KeepScreenOn
   - name: Kernel Adiutor
     type: foss
     sources:
