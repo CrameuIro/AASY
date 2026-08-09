@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-08-06 22:24
+  update_time: 2026-08-09 11:40
 categories:
 - name: ACGN
   apps:
@@ -1016,6 +1016,13 @@ categories:
       url: https://github.com/gkd-kit/gkd
     - type: official
       url: https://gkd.li/
+  - name: Hail
+    type: foss
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/com.aistra.hail/
+    - type: github
+      url: https://github.com/aistra0528/Hail
   - name: InstallerX
     type: foss
     sources:
