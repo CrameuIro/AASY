@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-08-09 11:40
+  update_time: 2026-08-13 20:55
 categories:
 - name: ACGN
   apps:
@@ -1312,6 +1312,13 @@ categories:
       url: https://f-droid.org/packages/com.philkes.notallyx/
     - type: github
       url: https://github.com/Crustack/NotallyX
+  - name: Notely Voice
+    type: foss
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/com.module.notelycompose.android/
+    - type: github
+      url: https://github.com/Notely-Voice/NotelyVoice
   - name: Offline Translator
     type: foss
     sources:
@@ -1413,6 +1420,11 @@ categories:
       url: https://github.com/kylecorry31/Trail-Sense
     - type: official
       url: https://kylecorry.com/Trail-Sense/
+  - name: Transcription
+    type: foss
+    sources:
+    - type: github
+      url: https://github.com/totec448-spec/Transcription
   - name: Translate You
     type: foss
     sources:
