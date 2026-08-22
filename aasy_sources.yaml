@@ -1,30 +1,30 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-08-13 20:55
+  update_time: 2026-08-21 14:26
 categories:
 - name: ACGN
   apps:
   - name: Book's Story
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/ua.acclorite.book_story/
     - type: github
       url: https://github.com/Acclorite/book-story
   - name: Ehviewer
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/xiaojieonly/Ehviewer_CN_SXJ
   - name: Kahon
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.amanoteam.kahon/
     - type: github
       url: https://github.com/AmanoTeam/Kahon
   - name: Kazumi
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.predidit.kazumi/
@@ -33,31 +33,31 @@ categories:
     - type: official
       url: https://kazumi.cn/
   - name: Komiic
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://komiic.com/
   - name: Komikku
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/komikku-app/komikku
   - name: LaQoo
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/laqoome/LaQoo
     - type: official
       url: https://app.laqoo.eu.org/
   - name: Legado
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/gedoor/legado
     - type: official
       url: https://gedoor.github.io/
   - name: Librera
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.foobnix.pro.pdf.reader/
@@ -66,17 +66,17 @@ categories:
     - type: official
       url: https://librera.mobi/
   - name: Mifun
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://mifun.tv/
   - name: Mihon
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/mihonapp/mihon
   - name: Miru
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/miru.miaomint/
@@ -85,38 +85,38 @@ categories:
     - type: official
       url: https://miru.js.org/
   - name: Mi动漫
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://midm.top/
   - name: Moon Reader
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: http://www.moondownload.com/
   - name: ReadAny
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/codedogQBY/ReadAny
     - type: official
       url: https://codedogqby.github.io/ReadAny/
   - name: Readest
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/readest/readest
 - name: AppStores
   apps:
   - name: Aurora Store
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.aurora.store/
     - type: github
       url: https://github.com/whyorean/AuroraStore
   - name: Droid-ify
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.looker.droidify/
@@ -125,7 +125,7 @@ categories:
     - type: official
       url: https://droidify.eu.org/
   - name: F-Droid
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.fdroid.fdroid/
@@ -134,26 +134,26 @@ categories:
     - type: official
       url: https://f-droid.org/
   - name: F-Droid Basic
-    type: closed
+    type: closedsource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.fdroid.basic/
   - name: Florid
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Nandanrmenon/florid
     - type: official
       url: https://www.nandanmenon.dev/florid
   - name: Neo Store
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.machiav3lli.fdroid/
     - type: github
       url: https://github.com/NeoApplications/Neo-Store
   - name: Vyxel Apps
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/NikhilKain/vyxel-apps
@@ -162,34 +162,34 @@ categories:
 - name: EmulationTools
   apps:
   - name: AstrBot
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/zz6zz666/AstrBot-Android-App
   - name: Droid Pad
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.github.umer0586.droidpad/
     - type: github
       url: https://github.com/UmerCodez/DroidPad
   - name: Droidspaces
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/ravindu644/Droidspaces-OSS
   - name: DroidVM
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Droid-VM/DroidVM
   - name: Joiplay
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://joiplay.net/
   - name: Termux
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.termux/
@@ -197,39 +197,39 @@ categories:
       url: https://github.com/termux/termux-app
     - type: official
       url: https://termux.dev/
-  - name: Tiny Computer
-    type: foss
+  - name: Tiny Container
+    type: opensource
     sources:
     - type: github
-      url: https://github.com/Cateners/tiny_computer
+      url: https://github.com/Cateners/tiny_container
   - name: Winlator
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://winlator.org/
 - name: FileManagement
   apps:
   - name: Amaze
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.amaze.filemanager/
     - type: github
       url: https://github.com/TeamAmaze/AmazeFileManager
   - name: CatShare
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/moe.reimu.catshare/
     - type: github
       url: https://github.com/kmod-midori/CatShare
   - name: File Manager +
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.alphainventor.com/file-manager-plus
   - name: Localsend
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.localsend.localsend_app/
@@ -238,46 +238,46 @@ categories:
     - type: official
       url: https://localsend.org/download
   - name: MT Manager
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://mt2.cn/
   - name: NFile
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Senzme/NFile
   - name: Solid Explorer
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://neatbytes.com/solidexplorer/
   - name: ZArchiver
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://zarchiver.com.cn/
   - name: ZipXtract
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/WirelessAlien/ZipXtract
   - name: 互传
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://es.vivo.com.cn/
 - name: MediaEntertainment
   apps:
   - name: bilimiao
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/10miaomiao/bilimiao2
     - type: official
       url: https://10miaomiao.cn/project/bilimiao
   - name: Booming Music
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.mardous.booming/
@@ -286,21 +286,21 @@ categories:
     - type: official
       url: https://boomingmusic.vercel.app/
   - name: Gramophone
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.akanework.gramophone/
     - type: github
       url: https://github.com/FoedusProgramme/Gramophone
   - name: Just Player
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.brouken.player/
     - type: github
       url: https://github.com/TheDcoder/JustPlayer
   - name: LibreTube
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.github.libretube/
@@ -309,19 +309,19 @@ categories:
     - type: official
       url: https://libretube.dev/
   - name: MusicFree
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/maotoumao/MusicFree
     - type: official
       url: https://musicfree.catcat.work/
   - name: NeriPlayer
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/cwuom/NeriPlayer
   - name: NewPipe
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.schabi.newpipe/
@@ -330,12 +330,12 @@ categories:
     - type: official
       url: https://newpipe.net/
   - name: PiliPlus
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/bggRGjQaUbCoE/PiliPlus
   - name: PipePipe
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/
@@ -344,24 +344,24 @@ categories:
     - type: official
       url: https://pipepipe.dev/
   - name: PixelPlayer
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/PixelPlayerHQ/PixelPlayer
   - name: PixEz
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Notsfsssf/pixez-flutter
   - name: Read You
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/me.ash.reader/
     - type: github
       url: https://github.com/ReadYouApp/ReadYou
   - name: Retro Music
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/code.name.monkey.retromusic/
@@ -370,12 +370,12 @@ categories:
     - type: official
       url: https://retromusic.app/
   - name: Simple Live
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/xiaoyaocz/dart_simple_live
   - name: VLC
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.videolan.vlc/
@@ -384,24 +384,24 @@ categories:
     - type: official
       url: https://www.videolan.org/vlc/
   - name: 搜图神器
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://soutushenqi.com/home
 - name: Root & Modules
   apps:
   - name: Adb-Root-Enabler
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/anasfanani/Adb-Root-Enabler
   - name: Adguard Home For Magisk Mod
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod
   - name: APatch
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/me.bmax.apatch/
@@ -410,38 +410,38 @@ categories:
     - type: official
       url: https://apatch.app/
   - name: Applist Detector
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Dr-TSNG/ApplistDetector
   - name: BiliRoaming
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/yujincheng08/BiliRoaming
     - type: official
       url: https://modules.lsposed.org/module/me.iacn.biliroaming/
   - name: CorePatch
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/LSPosed/CorePatch
     - type: official
       url: https://modules.lsposed.org/module/com.coderstory.toolkit/
   - name: CSLyric
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/tomakino/CSLyric
     - type: official
       url: https://modules.lsposed.org/module/com.makino.cslyric/
   - name: CustomPinyinDictionary
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/wuhgit/CustomPinyinDictionary
   - name: DoNotTryAccessibility
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Nitsuya/DoNotTryAccessibility
@@ -449,151 +449,151 @@ categories:
       url: 
         https://modules.lsposed.org/module/io.github.nitsuya.donottryaccessibility/
   - name: EdgeX
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/fcmfcm1999/EdgeX
     - type: official
       url: https://modules.lsposed.org/module/com.fan.edgex/
   - name: Enable Screenshot
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/LSPosed/DisableFlagSecure
   - name: freeform_update
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/eswd04/freeform_update
   - name: FreeMoe
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Xposed-Modules-Repo/me.feimeng.vip
     - type: official
       url: https://modules-preview.lsposed.org/module/me.feimeng.vip/
   - name: FunBox
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Xposed-Modules-Repo/have.fun
     - type: official
       url: https://modules.lsposed.org/module/have.fun/
   - name: Hide My Applist
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist
     - type: official
       url: https://modules.lsposed.org/module/com.tsng.hidemyapplist/
   - name: Hide-folders-files
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Doze-off/Hide-folders-files
   - name: HMA-OSS
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/frknkrc44/HMA-OSS
   - name: I-Am-Pad
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Xposed-Modules-Repo/com.houvven.impad
   - name: IAmNotADeveloper
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/xfqwdsj/IAmNotADeveloper
     - type: official
       url: https://modules.lsposed.org/module/top.ltfan.notdeveloper/
   - name: IAmNotDisabled
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/AoEiuV020/IAmNotDisabled
     - type: official
       url: https://modules.lsposed.org/module/cc.aoeiuv020.iamnotdisabled.hook/
   - name: InxLocker
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Chimioo/InxLocker
   - name: KernelSU
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/tiann/KernelSU
     - type: official
       url: https://kernelsu.org/
   - name: KernelSU Next
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/KernelSU-Next/KernelSU-Next
     - type: official
       url: https://kernelsu-next.github.io/webpage/
   - name: KsuWebUI
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/adivenxnataly/KsuWebUI
   - name: LSPDoze
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Xposed-Modules-Repo/com.op.lspdoze
     - type: official
       url: https://modules-edgeone.lsposed.org/module/com.op.lspdoze/
   - name: LSPosed
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/JingMatrix/LSPosed
     - type: official
       url: https://lsposed.cn/
   - name: lyricon
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/proify/lyricon
   - name: LyricProvider
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/proify/LyricProvider
   - name: Magisk
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/topjohnwu/Magisk
     - type: official
       url: https://magiskcn.com/
   - name: Magisk-Manager-for-Recovery-Mode
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode
   - name: MagiskHidePropsConf
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/cnrd/MagiskHide-Props-Config
   - name: Motify Project AIO
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.coolapk.com/feed/63916684
   - name: NewMiko
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/dartcv/NewMiko
     - type: official
       url: https://modules.lsposed.org/module/im.mingxi.miko/
   - name: NexAlloy
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/NexAlloy/NexAlloy
@@ -601,117 +601,117 @@ categories:
       url: 
         https://modules.lsposed.org/module/io.github.chsbuffer.revancedxposed/
   - name: Play Integrity Fix
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/KOWX712/PlayIntegrityFix/
   - name: Play Integrity Fork
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/osm0sis/PlayIntegrityFork
   - name: PLEnhanced
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Mahmud0808/PixelLauncherEnhanced
   - name: QFun
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Xposed-Modules-Repo/me.yxp.qfun
     - type: official
       url: https://modules.lsposed.org/module/me.yxp.qfun/
   - name: QuickSwitch
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/skittles9823/QuickSwitch
   - name: QuoteLockX
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Yubyf/QuoteLockX
     - type: official
       url: https://modules.lsposed.org/module/com.yubyf.quotelockx/
   - name: QuoteLockX-CustomFonts
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Yubyf/QuoteLockX-CustomFonts
   - name: reYAMF
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/JuanArton/reYAMF
   - name: Ruru
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/byxiaorun/Ruru
   - name: Shamiko
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/LSPosed/LSPosed.github.io
   - name: Shizuku
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/RikkaApps/Shizuku
     - type: official
       url: https://shizuku.rikka.app/
   - name: simple-cjk-font-magisk-module-template
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/lxgw/simple-cjk-font-magisk-module-template
   - name: StorageRedirect-assets
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/RikkaApps/StorageRedirect-assets
     - type: official
       url: https://sr.rikka.app/
   - name: Sui
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/RikkaApps/Sui
   - name: Thanox
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Tornaco/Thanox
     - type: official
       url: https://tornaco.github.io/Thanox/
   - name: Tricky Addon
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/KOWX712/Tricky-Addon-Update-Target-List
   - name: Tricky Store
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/5ec1cff/TrickyStore
   - name: Universal GMS Doze
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/gloeyisk/universal-gms-doze
   - name: Unlock CN GMS
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/fei-ke/unlock-cn-gms
   - name: wifi-bonding
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Magisk-Modules-Repo/wifi-bonding
   - name: XposedSmsCode
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/tianma8023/XposedSmsCode
@@ -719,24 +719,24 @@ categories:
       url: 
         https://modules.lsposed.org/module/com.github.tianma8023.xposed.smscode/
   - name: Yurikey Manager
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Yurii0307/yurikey
   - name: Zygisk Assistant
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/snake-4/Zygisk-Assistant
   - name: Zygisk Next
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Dr-TSNG/ZygiskNext
 - name: SocialCommunication
   apps:
   - name: Arcane Chat
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/chat.delta.lite/
@@ -745,12 +745,12 @@ categories:
     - type: official
       url: https://arcanechat.me/
   - name: CoolApk
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.coolapk.com/
   - name: Delta Chat
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.b44t.messenger/
@@ -759,14 +759,14 @@ categories:
     - type: official
       url: https://delta.chat/
   - name: Telegram
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://telegram.org/
 - name: Study & Office
   apps:
   - name: Butterfly
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/dev.linwood.butterfly/
@@ -775,12 +775,12 @@ categories:
     - type: official
       url: https://butterfly.linwood.dev/
   - name: Desmos
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.desmos.com/
   - name: Joplin
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/net.cozic.joplin/
@@ -789,24 +789,24 @@ categories:
     - type: official
       url: https://joplinapp.org/
   - name: MobiOffice
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://mobisystems.com/mobioffice
   - name: Noteshelf
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.noteshelf.net/
   - name: OnlyOffice
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/ONLYOFFICE/documents-app-android
     - type: official
       url: https://www.onlyoffice.com/
   - name: Saber
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.adilhanney.saber/
@@ -815,34 +815,34 @@ categories:
     - type: official
       url: https://saber.adil.hanney.org/
   - name: Takoboto
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://takoboto.jp/
   - name: WPS
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.wps.cn/
   - name: 欧路词典
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://dict.eudic.net/
   - name: 语雀
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.yuque.com/
 - name: SystemCustomization
   apps:
   - name: Cuto
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://app.cutowallpaper.com/
   - name: Delta
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/website.leifs.delta.foss/
@@ -851,17 +851,17 @@ categories:
     - type: official
       url: https://delta-icons.github.io/
   - name: Iconify
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Mahmud0808/Iconify
   - name: KWGT
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://docs.kustom.rocks/docs/downloads/download-kwgt/
   - name: Wall You
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.bnyro.wallpaper/
@@ -870,12 +870,12 @@ categories:
     - type: official
       url: https://you-apps.net/
   - name: Widgeet
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://widgeet.art/
   - name: zFont
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/zFont/flutter-app
@@ -884,21 +884,21 @@ categories:
 - name: SystemTools
   apps:
   - name: Activity Launcher
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/de.szalkowski.activitylauncher/
     - type: github
       url: https://github.com/butzist/ActivityLauncher
   - name: Activity Manager
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.activitymanager/
     - type: github
       url: https://github.com/sdex/ActivityManager
   - name: Amarok
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/deltazero.amarok.foss/
@@ -907,22 +907,22 @@ categories:
     - type: official
       url: https://deltazefiro.github.io/Amarok-doc/
   - name: AnyLauncher
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/tumuyan/AnyLauncher
   - name: Anywhere-
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/zhaobozhen/Anywhere-
   - name: Apktool M
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://maximoff.su/apktool/
   - name: App Manager
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/io.github.muntashirakon.AppManager/
@@ -931,12 +931,12 @@ categories:
     - type: official
       url: https://muntashir.dev/AppManager/
   - name: App Ops
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://appops.rikka.app/
   - name: aShell You
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/in.hridayan.ashell/
@@ -945,48 +945,48 @@ categories:
     - type: official
       url: https://ashellyou.github.io/
   - name: Blocker
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.merxury.blocker/
     - type: github
       url: https://github.com/lihenggui/blocker
   - name: Clash
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/clashdownload/Clash_for_Android
     - type: official
       url: https://clashforandroid.org/
   - name: CustomAnimator
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/AhmetCanArslan/CustomAnimator
   - name: CuToolbox
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/chenzyadb/CuprumTurbo-Scheduler
   - name: Easter Eggs
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.dede.android_eggs/
     - type: github
       url: https://github.com/hushenghao/AndroidEasterEggs
   - name: Everlasting Android Tweak
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/hari161008/Everlasting-Android-Tweak-New-Repo
   - name: Extinguish
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Moderpach/Extinguish
   - name: Fcitx5
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.fcitx.fcitx5.android/
@@ -995,86 +995,86 @@ categories:
     - type: official
       url: https://fcitx5-android.github.io/
   - name: FlClash
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/chen08209/FlClash
   - name: fooView
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.fooview.com/
   - name: Gesture
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/helloklf/EdgeGesture
   - name: GKD
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/gkd-kit/gkd
     - type: official
       url: https://gkd.li/
   - name: Hail
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.aistra.hail/
     - type: github
       url: https://github.com/aistra0528/Hail
   - name: InstallerX
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/iamr0s/InstallerX
   - name: InstallerX Revived
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/wxxsfxyzm/InstallerX-Revived
   - name: Keep Screen On
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.elasticrock.keepscreenon/
     - type: github
       url: https://github.com/elastic-rock/KeepScreenOn
   - name: Kernel Adiutor
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Grarak/KernelAdiutor
   - name: Lawnchair
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/LawnchairLauncher/lawnchair
     - type: official
       url: https://lawnchair.app/
   - name: LibChecker
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.absinthe.libchecker/
     - type: github
       url: https://github.com/LibChecker/LibChecker
   - name: microG Services
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/microg/GmsCore
     - type: official
       url: https://microg.org/
   - name: Operit AI
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/AAswordman/Operit
     - type: official
       url: https://operit.app/
   - name: SaverTuner
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://fdroid.gitlab.io/jekyll-fdroid/packages/s1m.savertuner/
@@ -1083,99 +1083,99 @@ categories:
     - type: official
       url: https://codeberg.org/s1m/savertuner.git
   - name: Scene4
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/helloklf/vtools
   - name: SD Maid SE
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/d4rken-org/sdmaid-se
     - type: official
       url: https://f-droid.org/packages/eu.darken.sdmse/
   - name: Smart Edge
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.imi.smartedge.sidebar.panel/
     - type: github
       url: https://github.com/Imtiaz-Official/Smart-Edge
   - name: Smartspacer
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/KieronQuinn/Smartspacer
   - name: Talkify
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/LonePheasantWarrior/TalkifyTTS
   - name: Tasker
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://tasker.joaoapps.com/download.html
   - name: TetherFuseNet
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/pyamsoft/tetherfusenet
   - name: Traffic Light
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.leekleak.trafficlight/
     - type: github
       url: https://github.com/leekleak/traffic-light
   - name: TTS Server
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/jing332/tts-server-android
   - name: TTS Util
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/zhaobozhen/Anywhere-
   - name: v2rayNG
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/2dust/v2rayNG
     - type: official
       url: https://v2rayng.2dust.link/
   - name: vFlow
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/ChaoMixian/vFlow
     - type: official
       url: https://chaomixian.github.io/vFlow-Docs/
   - name: Zenith
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/1372Slash/Zenith
   - name: 小黑屋
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://stopapp.https.gs/
   - name: 黑阈
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://brevent.jianyv.com/
 - name: UtilityTools
   apps:
   - name: AIDA64
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.aida64.com/
   - name: Amarok
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/deltazero.amarok.foss/
@@ -1184,82 +1184,91 @@ categories:
     - type: official
       url: https://deltazefiro.github.io/Amarok-doc/
   - name: AudioRelay
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://audiorelay.net/
   - name: AutoGLM For Android
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Luokavin/AutoGLM-For-Android
   - name: Barcode Scanner
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.atharok.barcodescanner/
     - type: official
       url: https://gitlab.com/Atharok/BarcodeScanner
   - name: Breezy Weather
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.breezyweather/
     - type: github
       url: https://github.com/breezy-weather/breezy-weather
   - name: CamFlow
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring
   - name: Chromium
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://download-chromium.appspot.com/
   - name: chrono
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.vicolo.chrono/
     - type: github
       url: https://github.com/vicolo-dev/chrono
   - name: CryptoApp
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/cforth/CryptoApp-Android
   - name: Currencies
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/de.salomax.currencies/
     - type: github
       url: https://github.com/sal0max/currencies
   - name: Daily You
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.demizo.daily_you/
     - type: github
       url: https://github.com/Demizo/Daily_You
   - name: Edge Gallery
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/google-ai-edge/gallery
   - name: Facemoji
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Steve-Mr/EmojiFace
+  - name: FairScan
+    type: 开源
+    sources:
+    - type: fdroid
+      url: https://f-droid.org/packages/org.fairscan.app/
+    - type: github
+      url: https://github.com/pynicolas/FairScan
+    - type: official
+      url: https://www.fairscan.org/
   - name: FliTik
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.flitik.com/
   - name: Fossify Recorder
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.fossify.voicerecorder/
@@ -1268,31 +1277,31 @@ categories:
     - type: official
       url: https://www.fossify.org/
   - name: Google Camera Mod
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.celsoazevedo.com/files/android/google-camera/
   - name: GrapheneOS Camera
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/GrapheneOS/Camera
   - name: ImageToolbox
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/ru.tech.imageresizershrinker/
     - type: github
       url: https://github.com/T8RIN/ImageToolbox
   - name: MicYou
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/LanRhyme/MicYou
     - type: official
       url: https://micyou.top/
   - name: Moonlight
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.limelight/
@@ -1301,57 +1310,57 @@ categories:
     - type: official
       url: https://moonlight-stream.org/
   - name: MotionEaseTune
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/BHznJNs/MotionEaseTune
   - name: NotallyX
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.philkes.notallyx/
     - type: github
       url: https://github.com/Crustack/NotallyX
   - name: Notely Voice
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.module.notelycompose.android/
     - type: github
       url: https://github.com/Notely-Voice/NotelyVoice
   - name: Offline Translator
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/dev.davidv.translator/
     - type: github
       url: https://github.com/DavidVentura/offline-translator
   - name: Opera
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.opera.com/opera/android
   - name: Photo Editor
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/PatrickAlex2019/PhotoEditor
   - name: primitive ftpd
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.primftpd/
     - type: github
       url: https://github.com/wolpi/prim-ftpd
   - name: Randomix
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.minar.randomix/
     - type: github
       url: https://github.com/m-i-n-a-r/randomix
   - name: Remember
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/dev.bikram.remember.gh/
@@ -1360,59 +1369,59 @@ categories:
     - type: official
       url: https://bikram-agarwal.github.io/remember/
   - name: Remind Me!
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.vishnu.remindme/
     - type: github
       url: https://github.com/VishnuSanal/RemindMe
   - name: RikkaHub
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/rikkahub/rikkahub
     - type: official
       url: https://rikka-ai.com/
   - name: Ruto
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/iamr0s/Ruto-GLM
   - name: Scrcpy for Android
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Miuzarte/ScrcpyForAndroid
   - name: Seal
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.junkfood.seal/
     - type: github
       url: https://github.com/JunkFood02/Seal
   - name: TimeR Machine
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/io.github.deweyreed.timer.other/
     - type: github
       url: https://github.com/timer-machine/timer-machine-android
   - name: Tomato
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/org.nsh07.pomodoro/
     - type: github
       url: https://github.com/nsh07/Tomato
   - name: Torrent Search
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.prajwalch.torrentsearch/
     - type: github
       url: https://github.com/prajwalch/TorrentSearch
   - name: Trail Sense
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.kylecorry.trail_sense/
@@ -1421,31 +1430,31 @@ categories:
     - type: official
       url: https://kylecorry.com/Trail-Sense/
   - name: Transcription
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/totec448-spec/Transcription
   - name: Translate You
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.bnyro.translate/
     - type: github
       url: https://github.com/you-apps/TranslateYou
   - name: Vanilla
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.sosauce.cutecalc/
     - type: github
       url: https://github.com/sosauce/Vanilla
   - name: Via
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://viayoo.com/
   - name: VPN Hotspot
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/be.mygod.vpnhotspot_foss/
@@ -1453,17 +1462,17 @@ categories:
       url: https://github.com/Mygod/VPNHotspot
   - name: WebBrowsing
   - name: WebToApp
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/shiaho777/web-to-app
   - name: Womic
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://wolicheng.com/womic/
   - name: Xed-Editor
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.rk.xededitor/
@@ -1472,12 +1481,12 @@ categories:
     - type: official
       url: https://xed-editor.github.io/Xed-Docs/
   - name: XMSleep
-    type: foss
+    type: opensource
     sources:
     - type: github
       url: https://github.com/Tosencen/XMSLEEP
   - name: YTDLnis
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.deniscerri.ytdl/
@@ -1486,22 +1495,22 @@ categories:
     - type: official
       url: https://ytdlnis.org/
   - name: 一个木函
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://woobx.cn/
   - name: 奇妙工具箱
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://www.magicalbox.cn/toolbox
   - name: 白眼
-    type: closed
+    type: closedsource
     sources:
     - type: official
       url: https://epcdiy.org/x
   - name: 蓝牙遥控器
-    type: foss
+    type: opensource
     sources:
     - type: fdroid
       url: https://f-droid.org/packages/com.atharok.btremote/

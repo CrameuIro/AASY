@@ -211,9 +211,9 @@ def add():
         clear("!错误：没有输入任一链接。")
         return
     elif new_app_list[2] or new_app_list[3]:
-        new_app_list[5] = "foss"
+        new_app_list[5] = "开源"
     else:
-        new_app_list[5] = "closed"
+        new_app_list[5] = "闭源"
     
     # 输出新应用详情预览
     print(f"\n新应用详细信息\n名称：{new_app_list[0]}\n分类：{category_name_list[new_app_list[1]]}\n类型：{new_app_list[5]}\n")
