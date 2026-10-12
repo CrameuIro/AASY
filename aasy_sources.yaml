@@ -1,6 +1,6 @@
 metadata:
   author: CrameuIro
-  update_time: 2026-08-21 14:26
+  update_time: 2026-10-13 00:26
 categories:
 - name: ACGN
   apps:
@@ -173,6 +173,11 @@ categories:
       url: https://f-droid.org/packages/com.github.umer0586.droidpad/
     - type: github
       url: https://github.com/UmerCodez/DroidPad
+  - name: DroidDesk
+    type: 开源
+    sources:
+    - type: github
+      url: https://github.com/orailnoor/DroidDesk
   - name: Droidspaces
     type: opensource
     sources:
