@@ -1,0 +1,1125 @@
+metadata:
+  author: CrameuIro
+  update_time: 2026-10-13 00:26
+category:
+- ACGN
+- AppStores
+- EmulationTools
+- FileManagement
+- MediaEntertainment
+- Root & Modules
+- SocialCommunication
+- Study & Office
+- SystemCustomization
+- SystemTools
+- UtilityTools
+codetype:
+- closed
+- open
+app:
+  Book's Story:
+    cat_id: 0
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/ua.acclorite.book_story/
+    github: https://github.com/Acclorite/book-story
+  Ehviewer:
+    cat_id: 0
+    typ_id: 1
+    github: https://github.com/xiaojieonly/Ehviewer_CN_SXJ
+  Kahon:
+    cat_id: 0
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.amanoteam.kahon/
+    github: https://github.com/AmanoTeam/Kahon
+  Kazumi:
+    cat_id: 0
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.predidit.kazumi/
+    github: https://github.com/Predidit/Kazumi
+    official: https://kazumi.cn/
+  Komiic:
+    cat_id: 0
+    typ_id: 0
+    official: https://komiic.com/
+  Komikku:
+    cat_id: 0
+    typ_id: 1
+    github: https://github.com/komikku-app/komikku
+  LaQoo:
+    cat_id: 0
+    typ_id: 1
+    github: https://github.com/laqoome/LaQoo
+    official: https://app.laqoo.eu.org/
+  Legado:
+    cat_id: 0
+    typ_id: 1
+    github: https://github.com/gedoor/legado
+    official: https://gedoor.github.io/
+  Librera:
+    cat_id: 0
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.foobnix.pro.pdf.reader/
+    github: https://github.com/foobnix/LibreraReader
+    official: https://librera.mobi/
+  Mifun:
+    cat_id: 0
+    typ_id: 0
+    official: https://mifun.tv/
+  Mihon:
+    cat_id: 0
+    typ_id: 1
+    github: https://github.com/mihonapp/mihon
+  Miru:
+    cat_id: 0
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/miru.miaomint/
+    github: https://github.com/miru-project/miru-app
+    official: https://miru.js.org/
+  Mi动漫:
+    cat_id: 0
+    typ_id: 0
+    official: https://midm.top/
+  Moon Reader:
+    cat_id: 0
+    typ_id: 0
+    official: http://www.moondownload.com/
+  ReadAny:
+    cat_id: 0
+    typ_id: 1
+    github: https://github.com/codedogQBY/ReadAny
+    official: https://codedogqby.github.io/ReadAny/
+  Readest:
+    cat_id: 0
+    typ_id: 1
+    github: https://github.com/readest/readest
+  Aurora Store:
+    cat_id: 1
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.aurora.store/
+    github: https://github.com/whyorean/AuroraStore
+  Droid-ify:
+    cat_id: 1
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.looker.droidify/
+    github: https://github.com/Droid-ify/client
+    official: https://droidify.eu.org/
+  F-Droid:
+    cat_id: 1
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/org.fdroid.fdroid/
+    github: https://github.com/f-droid/fdroidclient
+    official: https://f-droid.org/
+  F-Droid Basic:
+    cat_id: 1
+    typ_id: 0
+    f-droid: https://f-droid.org/packages/org.fdroid.basic/
+  Florid:
+    cat_id: 1
+    typ_id: 1
+    github: https://github.com/Nandanrmenon/florid
+    official: https://www.nandanmenon.dev/florid
+  Neo Store:
+    cat_id: 1
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.machiav3lli.fdroid/
+    github: https://github.com/NeoApplications/Neo-Store
+  Vyxel Apps:
+    cat_id: 1
+    typ_id: 1
+    github: https://github.com/NikhilKain/vyxel-apps
+    official: https://nikhilkain.github.io/vyxel-apps/
+  AstrBot:
+    cat_id: 2
+    typ_id: 1
+    github: https://github.com/zz6zz666/AstrBot-Android-App
+  Droid Pad:
+    cat_id: 2
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.github.umer0586.droidpad/
+    github: https://github.com/UmerCodez/DroidPad
+  DroidDesk:
+    cat_id: 2
+    typ_id: 1
+    github: https://github.com/orailnoor/DroidDesk
+  Droidspaces:
+    cat_id: 2
+    typ_id: 1
+    github: https://github.com/ravindu644/Droidspaces-OSS
+  DroidVM:
+    cat_id: 2
+    typ_id: 1
+    github: https://github.com/Droid-VM/DroidVM
+  Joiplay:
+    cat_id: 2
+    typ_id: 0
+    official: https://joiplay.net/
+  Termux:
+    cat_id: 2
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.termux/
+    github: https://github.com/termux/termux-app
+    official: https://termux.dev/
+  Tiny Container:
+    cat_id: 2
+    typ_id: 1
+    github: https://github.com/Cateners/tiny_container
+  Winlator:
+    cat_id: 2
+    typ_id: 0
+    official: https://winlator.org/
+  Amaze:
+    cat_id: 3
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.amaze.filemanager/
+    github: https://github.com/TeamAmaze/AmazeFileManager
+  CatShare:
+    cat_id: 3
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/moe.reimu.catshare/
+    github: https://github.com/kmod-midori/CatShare
+  File Manager +:
+    cat_id: 3
+    typ_id: 0
+    official: https://www.alphainventor.com/file-manager-plus
+  Localsend:
+    cat_id: 3
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/org.localsend.localsend_app/
+    github: https://github.com/localsend/localsend
+    official: https://localsend.org/download
+  MT Manager:
+    cat_id: 3
+    typ_id: 0
+    official: https://mt2.cn/
+  NFile:
+    cat_id: 3
+    typ_id: 1
+    github: https://github.com/Senzme/NFile
+  Solid Explorer:
+    cat_id: 3
+    typ_id: 0
+    official: https://neatbytes.com/solidexplorer/
+  ZArchiver:
+    cat_id: 3
+    typ_id: 0
+    official: https://zarchiver.com.cn/
+  ZipXtract:
+    cat_id: 3
+    typ_id: 1
+    github: https://github.com/WirelessAlien/ZipXtract
+  互传:
+    cat_id: 3
+    typ_id: 0
+    official: https://es.vivo.com.cn/
+  bilimiao:
+    cat_id: 4
+    typ_id: 1
+    github: https://github.com/10miaomiao/bilimiao2
+    official: https://10miaomiao.cn/project/bilimiao
+  Booming Music:
+    cat_id: 4
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.mardous.booming/
+    github: https://github.com/mardous/BoomingMusic
+    official: https://boomingmusic.vercel.app/
+  Gramophone:
+    cat_id: 4
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/org.akanework.gramophone/
+    github: https://github.com/FoedusProgramme/Gramophone
+  Just Player:
+    cat_id: 4
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.brouken.player/
+    github: https://github.com/TheDcoder/JustPlayer
+  LibreTube:
+    cat_id: 4
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.github.libretube/
+    github: https://github.com/libre-tube/LibreTube
+    official: https://libretube.dev/
+  MusicFree:
+    cat_id: 4
+    typ_id: 1
+    github: https://github.com/maotoumao/MusicFree
+    official: https://musicfree.catcat.work/
+  NeriPlayer:
+    cat_id: 4
+    typ_id: 1
+    github: https://github.com/cwuom/NeriPlayer
+  NewPipe:
+    cat_id: 4
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/org.schabi.newpipe/
+    github: https://github.com/TeamNewPipe/NewPipe
+    official: https://newpipe.net/
+  PiliPlus:
+    cat_id: 4
+    typ_id: 1
+    github: https://github.com/bggRGjQaUbCoE/PiliPlus
+  PipePipe:
+    cat_id: 4
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/
+    github: https://github.com/InfinityLoop1308/PipePipe
+    official: https://pipepipe.dev/
+  PixelPlayer:
+    cat_id: 4
+    typ_id: 1
+    github: https://github.com/PixelPlayerHQ/PixelPlayer
+  PixEz:
+    cat_id: 4
+    typ_id: 1
+    github: https://github.com/Notsfsssf/pixez-flutter
+  Read You:
+    cat_id: 4
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/me.ash.reader/
+    github: https://github.com/ReadYouApp/ReadYou
+  Retro Music:
+    cat_id: 4
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/code.name.monkey.retromusic/
+    github: https://github.com/RetroMusicPlayer/RetroMusicPlayer
+    official: https://retromusic.app/
+  Simple Live:
+    cat_id: 4
+    typ_id: 1
+    github: https://github.com/xiaoyaocz/dart_simple_live
+  VLC:
+    cat_id: 4
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/org.videolan.vlc/
+    github: https://github.com/videolan/vlc
+    official: https://www.videolan.org/vlc/
+  搜图神器:
+    cat_id: 4
+    typ_id: 0
+    official: https://soutushenqi.com/home
+  Adb-Root-Enabler:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/anasfanani/Adb-Root-Enabler
+  Adguard Home For Magisk Mod:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod
+  APatch:
+    cat_id: 5
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/me.bmax.apatch/
+    github: https://github.com/bmax121/APatch
+    official: https://apatch.app/
+  Applist Detector:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Dr-TSNG/ApplistDetector
+  BiliRoaming:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/yujincheng08/BiliRoaming
+    official: https://modules.lsposed.org/module/me.iacn.biliroaming/
+  CorePatch:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/LSPosed/CorePatch
+    official: https://modules.lsposed.org/module/com.coderstory.toolkit/
+  CSLyric:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/tomakino/CSLyric
+    official: https://modules.lsposed.org/module/com.makino.cslyric/
+  CustomPinyinDictionary:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/wuhgit/CustomPinyinDictionary
+  DoNotTryAccessibility:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Nitsuya/DoNotTryAccessibility
+    official: 
+      https://modules.lsposed.org/module/io.github.nitsuya.donottryaccessibility/
+  EdgeX:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/fcmfcm1999/EdgeX
+    official: https://modules.lsposed.org/module/com.fan.edgex/
+  Enable Screenshot:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/LSPosed/DisableFlagSecure
+  freeform_update:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/eswd04/freeform_update
+  FreeMoe:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Xposed-Modules-Repo/me.feimeng.vip
+    official: https://modules-preview.lsposed.org/module/me.feimeng.vip/
+  FunBox:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Xposed-Modules-Repo/have.fun
+    official: https://modules.lsposed.org/module/have.fun/
+  Hide My Applist:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist
+    official: https://modules.lsposed.org/module/com.tsng.hidemyapplist/
+  Hide-folders-files:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Doze-off/Hide-folders-files
+  HMA-OSS:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/frknkrc44/HMA-OSS
+  I-Am-Pad:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Xposed-Modules-Repo/com.houvven.impad
+  IAmNotADeveloper:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/xfqwdsj/IAmNotADeveloper
+    official: https://modules.lsposed.org/module/top.ltfan.notdeveloper/
+  IAmNotDisabled:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/AoEiuV020/IAmNotDisabled
+    official: 
+      https://modules.lsposed.org/module/cc.aoeiuv020.iamnotdisabled.hook/
+  InxLocker:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Chimioo/InxLocker
+  KernelSU:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/tiann/KernelSU
+    official: https://kernelsu.org/
+  KernelSU Next:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/KernelSU-Next/KernelSU-Next
+    official: https://kernelsu-next.github.io/webpage/
+  KsuWebUI:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/adivenxnataly/KsuWebUI
+  LSPDoze:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Xposed-Modules-Repo/com.op.lspdoze
+    official: https://modules-edgeone.lsposed.org/module/com.op.lspdoze/
+  LSPosed:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/JingMatrix/LSPosed
+    official: https://lsposed.cn/
+  lyricon:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/proify/lyricon
+  LyricProvider:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/proify/LyricProvider
+  Magisk:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/topjohnwu/Magisk
+    official: https://magiskcn.com/
+  Magisk-Manager-for-Recovery-Mode:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode
+  MagiskHidePropsConf:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/cnrd/MagiskHide-Props-Config
+  Motify Project AIO:
+    cat_id: 5
+    typ_id: 0
+    official: https://www.coolapk.com/feed/63916684
+  NewMiko:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/dartcv/NewMiko
+    official: https://modules.lsposed.org/module/im.mingxi.miko/
+  NexAlloy:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/NexAlloy/NexAlloy
+    official: 
+      https://modules.lsposed.org/module/io.github.chsbuffer.revancedxposed/
+  Play Integrity Fix:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/KOWX712/PlayIntegrityFix/
+  Play Integrity Fork:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/osm0sis/PlayIntegrityFork
+  PLEnhanced:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Mahmud0808/PixelLauncherEnhanced
+  QFun:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Xposed-Modules-Repo/me.yxp.qfun
+    official: https://modules.lsposed.org/module/me.yxp.qfun/
+  QuickSwitch:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/skittles9823/QuickSwitch
+  QuoteLockX:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Yubyf/QuoteLockX
+    official: https://modules.lsposed.org/module/com.yubyf.quotelockx/
+  QuoteLockX-CustomFonts:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Yubyf/QuoteLockX-CustomFonts
+  reYAMF:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/JuanArton/reYAMF
+  Ruru:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/byxiaorun/Ruru
+  Shamiko:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/LSPosed/LSPosed.github.io
+  Shizuku:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/RikkaApps/Shizuku
+    official: https://shizuku.rikka.app/
+  simple-cjk-font-magisk-module-template:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/lxgw/simple-cjk-font-magisk-module-template
+  StorageRedirect-assets:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/RikkaApps/StorageRedirect-assets
+    official: https://sr.rikka.app/
+  Sui:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/RikkaApps/Sui
+  Thanox:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Tornaco/Thanox
+    official: https://tornaco.github.io/Thanox/
+  Tricky Addon:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/KOWX712/Tricky-Addon-Update-Target-List
+  Tricky Store:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/5ec1cff/TrickyStore
+  Universal GMS Doze:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/gloeyisk/universal-gms-doze
+  Unlock CN GMS:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/fei-ke/unlock-cn-gms
+  wifi-bonding:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Magisk-Modules-Repo/wifi-bonding
+  XposedSmsCode:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/tianma8023/XposedSmsCode
+    official: 
+      https://modules.lsposed.org/module/com.github.tianma8023.xposed.smscode/
+  Yurikey Manager:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Yurii0307/yurikey
+  Zygisk Assistant:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/snake-4/Zygisk-Assistant
+  Zygisk Next:
+    cat_id: 5
+    typ_id: 1
+    github: https://github.com/Dr-TSNG/ZygiskNext
+  Arcane Chat:
+    cat_id: 6
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/chat.delta.lite/
+    github: https://github.com/ArcaneChat/android
+    official: https://arcanechat.me/
+  CoolApk:
+    cat_id: 6
+    typ_id: 0
+    official: https://www.coolapk.com/
+  Delta Chat:
+    cat_id: 6
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.b44t.messenger/
+    github: https://github.com/deltachat/deltachat-android
+    official: https://delta.chat/
+  Telegram:
+    cat_id: 6
+    typ_id: 0
+    official: https://telegram.org/
+  Butterfly:
+    cat_id: 7
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/dev.linwood.butterfly/
+    github: https://github.com/LinwoodDev/Butterfly
+    official: https://butterfly.linwood.dev/
+  Desmos:
+    cat_id: 7
+    typ_id: 0
+    official: https://www.desmos.com/
+  Joplin:
+    cat_id: 7
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/net.cozic.joplin/
+    github: https://github.com/laurent22/joplin
+    official: https://joplinapp.org/
+  MobiOffice:
+    cat_id: 7
+    typ_id: 0
+    official: https://mobisystems.com/mobioffice
+  Noteshelf:
+    cat_id: 7
+    typ_id: 0
+    official: https://www.noteshelf.net/
+  OnlyOffice:
+    cat_id: 7
+    typ_id: 1
+    github: https://github.com/ONLYOFFICE/documents-app-android
+    official: https://www.onlyoffice.com/
+  Saber:
+    cat_id: 7
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.adilhanney.saber/
+    github: https://github.com/saber-notes/saber
+    official: https://saber.adil.hanney.org/
+  Takoboto:
+    cat_id: 7
+    typ_id: 0
+    official: https://takoboto.jp/
+  WPS:
+    cat_id: 7
+    typ_id: 0
+    official: https://www.wps.cn/
+  欧路词典:
+    cat_id: 7
+    typ_id: 0
+    official: https://dict.eudic.net/
+  语雀:
+    cat_id: 7
+    typ_id: 0
+    official: https://www.yuque.com/
+  Cuto:
+    cat_id: 8
+    typ_id: 0
+    official: https://app.cutowallpaper.com/
+  Delta:
+    cat_id: 8
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/website.leifs.delta.foss/
+    github: https://github.com/Delta-Icons/android
+    official: https://delta-icons.github.io/
+  Iconify:
+    cat_id: 8
+    typ_id: 1
+    github: https://github.com/Mahmud0808/Iconify
+  KWGT:
+    cat_id: 8
+    typ_id: 0
+    official: https://docs.kustom.rocks/docs/downloads/download-kwgt/
+  Wall You:
+    cat_id: 8
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.bnyro.wallpaper/
+    github: https://github.com/you-apps/WallYou
+    official: https://you-apps.net/
+  Widgeet:
+    cat_id: 8
+    typ_id: 0
+    official: https://widgeet.art/
+  zFont:
+    cat_id: 8
+    typ_id: 1
+    github: https://github.com/zFont/flutter-app
+    official: https://zfont.pages.dev/
+  Activity Launcher:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/de.szalkowski.activitylauncher/
+    github: https://github.com/butzist/ActivityLauncher
+  Activity Manager:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.activitymanager/
+    github: https://github.com/sdex/ActivityManager
+  Amarok:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/deltazero.amarok.foss/
+    github: https://github.com/deltazefiro/Amarok-Hider
+    official: https://deltazefiro.github.io/Amarok-doc/
+  AnyLauncher:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/tumuyan/AnyLauncher
+  Anywhere-:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/zhaobozhen/Anywhere-
+  Apktool M:
+    cat_id: 9
+    typ_id: 0
+    official: https://maximoff.su/apktool/
+  App Manager:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/io.github.muntashirakon.AppManager/
+    github: https://github.com/MuntashirAkon/AppManager
+    official: https://muntashir.dev/AppManager/
+  App Ops:
+    cat_id: 9
+    typ_id: 0
+    official: https://appops.rikka.app/
+  aShell You:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/in.hridayan.ashell/
+    github: https://github.com/DP-Hridayan/aShellYou
+    official: https://ashellyou.github.io/
+  Blocker:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.merxury.blocker/
+    github: https://github.com/lihenggui/blocker
+  Clash:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/clashdownload/Clash_for_Android
+    official: https://clashforandroid.org/
+  CustomAnimator:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/AhmetCanArslan/CustomAnimator
+  CuToolbox:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/chenzyadb/CuprumTurbo-Scheduler
+  Easter Eggs:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.dede.android_eggs/
+    github: https://github.com/hushenghao/AndroidEasterEggs
+  Everlasting Android Tweak:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/hari161008/Everlasting-Android-Tweak-New-Repo
+  Extinguish:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/Moderpach/Extinguish
+  Fcitx5:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/org.fcitx.fcitx5.android/
+    github: https://github.com/fcitx5-android/fcitx5-android
+    official: https://fcitx5-android.github.io/
+  FlClash:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/chen08209/FlClash
+  fooView:
+    cat_id: 9
+    typ_id: 0
+    official: https://www.fooview.com/
+  Gesture:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/helloklf/EdgeGesture
+  GKD:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/gkd-kit/gkd
+    official: https://gkd.li/
+  Hail:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.aistra.hail/
+    github: https://github.com/aistra0528/Hail
+  InstallerX:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/iamr0s/InstallerX
+  InstallerX Revived:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/wxxsfxyzm/InstallerX-Revived
+  Keep Screen On:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.elasticrock.keepscreenon/
+    github: https://github.com/elastic-rock/KeepScreenOn
+  Kernel Adiutor:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/Grarak/KernelAdiutor
+  Lawnchair:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/LawnchairLauncher/lawnchair
+    official: https://lawnchair.app/
+  LibChecker:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.absinthe.libchecker/
+    github: https://github.com/LibChecker/LibChecker
+  microG Services:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/microg/GmsCore
+    official: https://microg.org/
+  Operit AI:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/AAswordman/Operit
+    official: https://operit.app/
+  SaverTuner:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://fdroid.gitlab.io/jekyll-fdroid/packages/s1m.savertuner/
+    github: https://github.com/vaimalaviya1233/savertuner
+    official: https://codeberg.org/s1m/savertuner.git
+  Scene4:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/helloklf/vtools
+  SD Maid SE:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/d4rken-org/sdmaid-se
+    official: https://f-droid.org/packages/eu.darken.sdmse/
+  Smart Edge:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.imi.smartedge.sidebar.panel/
+    github: https://github.com/Imtiaz-Official/Smart-Edge
+  Smartspacer:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/KieronQuinn/Smartspacer
+  Talkify:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/LonePheasantWarrior/TalkifyTTS
+  Tasker:
+    cat_id: 9
+    typ_id: 0
+    official: https://tasker.joaoapps.com/download.html
+  TetherFuseNet:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/pyamsoft/tetherfusenet
+  Traffic Light:
+    cat_id: 9
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.leekleak.trafficlight/
+    github: https://github.com/leekleak/traffic-light
+  TTS Server:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/jing332/tts-server-android
+  TTS Util:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/zhaobozhen/Anywhere-
+  v2rayNG:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/2dust/v2rayNG
+    official: https://v2rayng.2dust.link/
+  vFlow:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/ChaoMixian/vFlow
+    official: https://chaomixian.github.io/vFlow-Docs/
+  Zenith:
+    cat_id: 9
+    typ_id: 1
+    github: https://github.com/1372Slash/Zenith
+  小黑屋:
+    cat_id: 9
+    typ_id: 0
+    official: https://stopapp.https.gs/
+  黑阈:
+    cat_id: 9
+    typ_id: 0
+    official: https://brevent.jianyv.com/
+  AIDA64:
+    cat_id: 10
+    typ_id: 0
+    official: https://www.aida64.com/
+  AudioRelay:
+    cat_id: 10
+    typ_id: 0
+    official: https://audiorelay.net/
+  AutoGLM For Android:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/Luokavin/AutoGLM-For-Android
+  Barcode Scanner:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.atharok.barcodescanner/
+    official: https://gitlab.com/Atharok/BarcodeScanner
+  Breezy Weather:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/org.breezyweather/
+    github: https://github.com/breezy-weather/breezy-weather
+  CamFlow:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring
+  Chromium:
+    cat_id: 10
+    typ_id: 0
+    official: https://download-chromium.appspot.com/
+  chrono:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.vicolo.chrono/
+    github: https://github.com/vicolo-dev/chrono
+  CryptoApp:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/cforth/CryptoApp-Android
+  Currencies:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/de.salomax.currencies/
+    github: https://github.com/sal0max/currencies
+  Daily You:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.demizo.daily_you/
+    github: https://github.com/Demizo/Daily_You
+  Edge Gallery:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/google-ai-edge/gallery
+  Facemoji:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/Steve-Mr/EmojiFace
+  FairScan:
+    cat_id: 10
+    typ_id: 0
+    f-droid: https://f-droid.org/packages/org.fairscan.app/
+    github: https://github.com/pynicolas/FairScan
+    official: https://www.fairscan.org/
+  FliTik:
+    cat_id: 10
+    typ_id: 0
+    official: https://www.flitik.com/
+  Fossify Recorder:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/org.fossify.voicerecorder/
+    github: https://github.com/FossifyOrg/Voice-Recorder
+    official: https://www.fossify.org/
+  Google Camera Mod:
+    cat_id: 10
+    typ_id: 0
+    official: https://www.celsoazevedo.com/files/android/google-camera/
+  GrapheneOS Camera:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/GrapheneOS/Camera
+  ImageToolbox:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/ru.tech.imageresizershrinker/
+    github: https://github.com/T8RIN/ImageToolbox
+  MicYou:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/LanRhyme/MicYou
+    official: https://micyou.top/
+  Moonlight:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.limelight/
+    github: https://github.com/moonlight-stream/moonlight-android
+    official: https://moonlight-stream.org/
+  MotionEaseTune:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/BHznJNs/MotionEaseTune
+  NotallyX:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.philkes.notallyx/
+    github: https://github.com/Crustack/NotallyX
+  Notely Voice:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.module.notelycompose.android/
+    github: https://github.com/Notely-Voice/NotelyVoice
+  Offline Translator:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/dev.davidv.translator/
+    github: https://github.com/DavidVentura/offline-translator
+  Opera:
+    cat_id: 10
+    typ_id: 0
+    official: https://www.opera.com/opera/android
+  Photo Editor:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/PatrickAlex2019/PhotoEditor
+  primitive ftpd:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/org.primftpd/
+    github: https://github.com/wolpi/prim-ftpd
+  Randomix:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.minar.randomix/
+    github: https://github.com/m-i-n-a-r/randomix
+  Remember:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/dev.bikram.remember.gh/
+    github: https://github.com/bikram-agarwal/Remember
+    official: https://bikram-agarwal.github.io/remember/
+  Remind Me!:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.vishnu.remindme/
+    github: https://github.com/VishnuSanal/RemindMe
+  RikkaHub:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/rikkahub/rikkahub
+    official: https://rikka-ai.com/
+  Ruto:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/iamr0s/Ruto-GLM
+  Scrcpy for Android:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/Miuzarte/ScrcpyForAndroid
+  Seal:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.junkfood.seal/
+    github: https://github.com/JunkFood02/Seal
+  TimeR Machine:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/io.github.deweyreed.timer.other/
+    github: https://github.com/timer-machine/timer-machine-android
+  Tomato:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/org.nsh07.pomodoro/
+    github: https://github.com/nsh07/Tomato
+  Torrent Search:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.prajwalch.torrentsearch/
+    github: https://github.com/prajwalch/TorrentSearch
+  Trail Sense:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.kylecorry.trail_sense/
+    github: https://github.com/kylecorry31/Trail-Sense
+    official: https://kylecorry.com/Trail-Sense/
+  Transcription:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/totec448-spec/Transcription
+  Translate You:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.bnyro.translate/
+    github: https://github.com/you-apps/TranslateYou
+  Vanilla:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.sosauce.cutecalc/
+    github: https://github.com/sosauce/Vanilla
+  Via:
+    cat_id: 10
+    typ_id: 0
+    official: https://viayoo.com/
+  VPN Hotspot:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/be.mygod.vpnhotspot_foss/
+    github: https://github.com/Mygod/VPNHotspot
+  WebBrowsing:
+    cat_id: 10
+    typ_id: 0
+  WebToApp:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/shiaho777/web-to-app
+  Womic:
+    cat_id: 10
+    typ_id: 0
+    official: https://wolicheng.com/womic/
+  Xed-Editor:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.rk.xededitor/
+    github: https://github.com/Xed-Editor/Xed-Editor
+    official: https://xed-editor.github.io/Xed-Docs/
+  XMSleep:
+    cat_id: 10
+    typ_id: 1
+    github: https://github.com/Tosencen/XMSLEEP
+  YTDLnis:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.deniscerri.ytdl/
+    github: https://github.com/deniscerri/ytdlnis
+    official: https://ytdlnis.org/
+  一个木函:
+    cat_id: 10
+    typ_id: 0
+    official: https://woobx.cn/
+  奇妙工具箱:
+    cat_id: 10
+    typ_id: 0
+    official: https://www.magicalbox.cn/toolbox
+  白眼:
+    cat_id: 10
+    typ_id: 0
+    official: https://epcdiy.org/x
+  蓝牙遥控器:
+    cat_id: 10
+    typ_id: 1
+    f-droid: https://f-droid.org/packages/com.atharok.btremote/
+    official: https://gitlab.com/Atharok/BtRemote
