@@ -4,4 +4,4 @@
 - Python >= 3.14.6
 - Install the modules below
 ```
-pip install prettytable ruamel.yaml
+pip install prettytable ruamel.yaml pyfiglet
