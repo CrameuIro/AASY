@@ -1,7 +1,8 @@
-config = ["cancel_code" = "/e"]
+aasy_config = {"cancel_code": "/e", "src_yaml_path": "aasy_source.yaml", "bad_yaml_path": "CORRUPTED_aasy_source.yaml"}
 
-def get_config(key = ""):
+# 获取aasy配置
+def get_aasy_config(key = ""):
     if key:
-        return config[key]
+        return aasy_config[key]
     else:
-        return config
+        return aasy_config

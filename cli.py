@@ -1,5 +1,6 @@
 import os
 from pyfiglet import Figlet
+import sys
         
 ''' 命令行打印，输入列表，依次打印每项。当列表项为以下值时不打印，执行对应功能：
 /cs 清屏
@@ -20,3 +21,7 @@ def cli_print(cont: list = [""]):
 def artistic_print(text = "", ffont = "ansi_shadow"):
     f = Figlet(font = ffont)
     print(f.renderText(text))
+
+''' 退出命令行'''    
+def cli_exit():
+    sys.exit(0)
